@@ -14,10 +14,10 @@ Solution: It is divided into two parts:
 		2) Questionnaire
 solution is written such a way that learning and question can be executed in any sequence. which means if knowledge base is set, question will fetch the answer else not. it is done by keeping in mind that galaxy language may evolve or metal price can change. 
  
-Test case:1
-glob is I
-prok is V
-pish is X
+Test case:1<br>
+glob is I <br>
+prok is V <br>
+pish is X <br>
 tegj is L
 glob glob Silver is 34 Credits
 glob prok Gold is 57800 Credits
